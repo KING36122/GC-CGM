@@ -26,17 +26,4 @@
   <a href="mailto:gf36122@gmail.com" target="_blank"><img height="30" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100002757151981" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabriel_f.f/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div> 
-
-#
-<div align="center">
-<hr>
-Personality Type: <b>ISTJ, 5w6</b><br>
-House of Hogwarts: <b>Ravenclaw</b>
-<hr>
-I currently study at UFAM taking a <b>Bachelor's Degree in Software Engineering</b>.<br>
-My goal is to grow in life and improve my knowledge.<br>
-I am practicing English and I still intend to be fluent.<br>
-<hr>
-Link to my personal resume: http://lattes.cnpq.br/7482037379671226
 </div>
