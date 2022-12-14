@@ -2,14 +2,7 @@
   <h1>Repositório de Gerência de Configuração 👋</h1>
   <hr>
   <h3>SISTEMA DE BANCO DE DADOS PARA CONTROLE DE ESTOQUE DA LOJA ONLINE DE ROUPAS AFRODITE MODA’S</h3>
-  <br>
   <h4><b>Objetivo: </b>Um sistema de banco de dados que visa auxiliar a proprietária da loja Afrodite Moda's a controlar o estoque dos produtos em sua loja, além de ajudá-la em outras funções como o controle maior dos seus gastos com mercadoria</h4>
-</div>
-            
-<div align="center">
-    <a href="https://github.com/KING36122">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=KING36122&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"><br>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KING36122&layout=compact&langs_count=16&theme=dark&hide_border=true">
 </div>
   
 <div align="center">
