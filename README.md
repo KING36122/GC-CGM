@@ -9,7 +9,7 @@
   <h1>Languages</h1>
 </div>
   
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: space-between"><br>
   <img align="center" alt="King-HTML5" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="King-CSS3" height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="King-Mysql" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
