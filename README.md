@@ -18,12 +18,12 @@
 </div>
 
 <div align="center">
-  <h1>Technologies</h1>
+  <h1>Environment</h1>
 </div>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="King-PHP" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">
-  
+  <img align="center" alt="King-PHP" height="40" width="100" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png">
 </div>
 
 ##  
