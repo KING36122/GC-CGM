@@ -22,10 +22,18 @@
 </div>
   
 <div align="center" style="display: space-between"><br>
-  <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" style="margin-right: 10px">
+  <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">
   <img align="center" alt="King-PHP" height="60" width="60" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png">
 </div>
 
+<div align="center">
+  <h1>Team Control, Documentation and Test</h1>
+</div>
+  
+<div align="center" style="display: space-between"><br>
+  <img align="center" alt="King-PHP" height="60" width="60" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
+  <img align="center" alt="King-PHP" height="60" width="60" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png">
+</div>
 ##  
   
 <div align="center">
