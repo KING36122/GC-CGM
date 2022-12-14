@@ -31,8 +31,8 @@
 </div>
   
 <div align="center" style="display: space-between"><br>
-  <img align="center" alt="King-PHP" height="60" width="60" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
-  <img align="center" alt="King-PHP" height="60" width="60" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png">
+  <img align="center" alt="King-PHP" height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
+  <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png">
 </div>
 ##  
   
