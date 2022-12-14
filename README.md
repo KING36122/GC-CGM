@@ -21,7 +21,7 @@
   <h1>Environment</h1>
 </div>
   
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: space-between"><br>
   <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">
   <img align="center" alt="King-PHP" height="60" width="60" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png">
 </div>
