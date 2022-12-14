@@ -6,27 +6,21 @@
 </div>
   
 <div align="center">
-  <h1>Languages and Technologies</h1>
+  <h1>Languages</h1>
 </div>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="King-HTML5" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="King-CSS3" height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="King-Mysql" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="King-PHP" height="40" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="King-PHP" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">
-  
+  <img align="center" alt="King-PHP" height="40" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
 </div>
 
 <div align="center">
-  <h1>Languages and Technologies</h1>
+  <h1>Technologies</h1>
 </div>
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="King-HTML5" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="King-CSS3" height="40" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="King-Mysql" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="King-PHP" height="40" width="100" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="King-PHP" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg">
   
 </div>
