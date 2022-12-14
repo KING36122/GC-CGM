@@ -39,7 +39,7 @@
 ##  
   
 <div align="center">
-  <h1>Social Midia</h1>
+  <h1>Team</h1>
 </div>
 
 <div align="center">
