@@ -9,7 +9,7 @@
 </div>
   
 <div align="center" style="display: space-between"><br>
-  <img align="center" alt="King-HTML5" height="80" width="120" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg">
+  <img align="center" alt="King-HTML5" height="100" width="120" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg">
   <img align="center" alt="King-CSS3" height="80" width="100" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
   <img align="center" alt="King-Mysql" height="60" width="120" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
   <img align="center" alt="King-PHP" height="40" width="100" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png">
