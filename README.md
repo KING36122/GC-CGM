@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:gf36122@gmail.com" target="_blank"><img height="30" width="110" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/profile.php?id=100002757151981" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabriel_f.f/" target="_blank"><img height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img align="center" alt="King-PHP" height="80" width="80" src="https://media.discordapp.net/attachments/1025858376124596234/1054222741097697321/Cheila.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png">
+  <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Firefox_brand_logo%2C_2019.svg">
 </div>
