@@ -44,6 +44,8 @@
 
 <div align="center">
   <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054224827193503774/Cheila.png?width=605&height=605">
-  <img align="center" alt="King-PHP" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png">
-  <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Firefox_brand_logo%2C_2019.svg">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
 </div>
