@@ -33,7 +33,7 @@
   <img align="center" alt="King-PHP" height="80" width="80" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png">
   <img align="center" alt="King-PHP" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png">
   <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Firefox_brand_logo%2C_2019.svg">
-  <img align="center" alt="King-PHP" height="70" width="70" src="https://media.discordapp.net/attachments/1025858376124596234/1054221501102051378/C.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="70" width="70" src="https://camo.githubusercontent.com/76a096f27e57e14c7ffb401b73e6c7472df2151733debf915ca65d9c2d0530d8/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323633312f504e472f3531322f676f6f676c655f6368726f6d655f6e65775f6c6f676f5f69636f6e5f3135393134342e706e67">
 </div>
 
 ##  
