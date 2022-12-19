@@ -45,7 +45,7 @@
 <div align="center">
   <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054224827193503774/Cheila.png?width=605&height=605">
   <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
-  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
-  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
-  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054225343562649630/Gab.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054226146838974525/Jef.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054226167059714138/Mat.png?width=605&height=605">
+  <img align="center" alt="King-PHP" height="150" width="150" src="https://media.discordapp.net/attachments/1025858376124596234/1054226181915938866/Ram.png?width=605&height=605">
 </div>
