@@ -3,7 +3,7 @@
   <h3>SISTEMA DE BANCO DE DADOS PARA CONTROLE DE ESTOQUE DA LOJA ONLINE DE ROUPAS AFRODITE MODA’S</h3>
   <h4><b>Objetivo: </b>Um sistema de banco de dados que visa auxiliar a proprietária da loja Afrodite Moda's a controlar o estoque dos produtos em sua loja, além de ajudá-la em outras funções como o controle maior dos seus gastos com mercadoria</h4>
   <h4><b>Status: </b> 🟡 Em andamento</h4>
-</div>
+</div>a
   
 <div align="center">
   <h1>Languages</h1>
@@ -26,7 +26,7 @@
   <img align="center" alt="King-PHP" height="60" width="60" src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png">
 </div>
 
-<div align="center">
+<div align="center">a
   <h1>Team Control, Documentation and Test</h1>
 </div>
   
