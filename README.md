@@ -2,6 +2,7 @@
   <h1>Repositório de Gerência de Configuração 👋</h1>
   <h3>SISTEMA DE BANCO DE DADOS PARA CONTROLE DE ESTOQUE DA LOJA ONLINE DE ROUPAS AFRODITE MODA’S</h3>
   <h4><b>Objetivo: </b>Um sistema de banco de dados que visa auxiliar a proprietária da loja Afrodite Moda's a controlar o estoque dos produtos em sua loja, além de ajudá-la em outras funções como o controle maior dos seus gastos com mercadoria</h4>
+  <h4><b>Status: </b> 🟡 Em andamento</h4>
 </div>
   
 <div align="center">
@@ -35,6 +36,7 @@
   <img align="center" alt="King-PHP" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Firefox_brand_logo%2C_2019.svg">
   <img align="center" alt="King-PHP" height="70" width="70" src="https://camo.githubusercontent.com/76a096f27e57e14c7ffb401b73e6c7472df2151733debf915ca65d9c2d0530d8/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323633312f504e472f3531322f676f6f676c655f6368726f6d655f6e65775f6c6f676f5f69636f6e5f3135393134342e706e67">
 </div>
+
 
 ##  
   
